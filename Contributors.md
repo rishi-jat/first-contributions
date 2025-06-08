@@ -3271,3 +3271,5 @@ Darien Edwards
 - [Manish Tomar] (https://github.com/tomarmanish25)
 - [KrithigaSiv] (https://github.com/KrithigaSiv)
 - [Viswa] (https://github.com/Viswa220522)
+- [Rishi jat] (https://github.com/rishi-jat)
+
